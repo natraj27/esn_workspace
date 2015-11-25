@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical" android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/myTextView"
+		android:textColor="#348382" android:textSize="30dip" />
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:id="@+id/myTextViewTwo"
+		android:textColor="#ffffff" android:textSize="30dip" />
+</LinearLayout>
+<!-- From: file:/C:/Users/natraj.gadumala/AndroidStudioProjects/ExampleCountDownListView/app/src/main/res/layout/row.xml -->

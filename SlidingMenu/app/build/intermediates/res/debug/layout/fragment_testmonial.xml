@@ -1,0 +1,16 @@
+<ListView
+    android:id="@+id/activity_googlecards_listview"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e2e2e2"
+    android:clipToPadding="false"
+    android:divider="@null"
+    android:dividerHeight="8dp"
+    android:fadingEdge="none"
+    android:fitsSystemWindows="true"
+    android:padding="12dp"
+    android:scrollbarStyle="outsideOverlay"
+    tools:ignore="overdraw" />
+<!-- From: file:/C:/Users/natraj.gadumala/AndroidStudioProjects/SlidingMenu/app/src/main/res/layout/fragment_testmonial.xml -->

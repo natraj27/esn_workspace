@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@android:id/tabhost"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <RelativeLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+        <FrameLayout
+            android:id="@android:id/tabcontent"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:padding="5dp"
+        />
+        <TabWidget
+            android:id="@android:id/tabs"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="bottom"
+            android:layout_alignParentBottom="true"
+        />
+         <Button
+        android:id="@+id/button111"
+        android:layout_width="820dp"
+        android:layout_height="970dp"
+        android:background="@drawable/backgroundcolorfive"
+        android:textStyle="bold"
+        android:textSize="25px"
+        android:text="No Wifi Connection, Check Settings" />
+
+    </RelativeLayout>
+</TabHost>
+<!-- From: file:/C:/Users/natraj.gadumala/AndroidStudioProjects/HAApplication/app/src/main/res/layout/activity_main.xml -->

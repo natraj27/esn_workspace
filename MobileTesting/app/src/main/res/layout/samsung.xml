@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="match_parent" android:orientation="vertical"
+    android:background="#9E9E9E"
+    android:layout_height="match_parent">
+
+
+    <Button android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        android:layout_width="200dp"
+         android:layout_height="wrap_content"
+        android:text="Service Menu"
+        android:id="@+id/service"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp" />
+
+    <Button android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="DUMP Info"
+        android:id="@+id/dump"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp" />
+
+    <Button
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="GSM Info"
+        android:id="@+id/gsm"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp" />
+
+    <Button
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="BATTERY Info"
+        android:id="@+id/battery"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"/>
+</LinearLayout>

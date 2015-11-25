@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical" >
+
+    
+    
+     <ImageButton
+        android:id="@+id/ImageButton03"
+       android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ImageButton01"
+        android:layout_alignTop="@+id/ImageButton02"
+        android:background="#1784BC"
+        android:onClick="Settings"
+        android:paddingBottom="0px"
+        android:src="@drawable/settings"
+        android:text="Button" />
+    
+    <Button
+        android:id="@+id/button111"
+        android:layout_width="000dp"
+        android:layout_height="970dp"
+        android:background="@drawable/backgroundcolorfive"
+        android:textStyle="bold"
+        android:textSize="25px"
+        android:text="No Wifi Connection, Check Settings"/>
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/button1"
+        android:layout_alignRight="@+id/button1"
+        android:layout_below="@+id/button1"
+        android:background="#C64034"
+        android:gravity="center"
+        android:text="Appliances"
+        android:textColor="#ffffff"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView1"
+        android:layout_alignBottom="@+id/textView1"
+        android:layout_alignLeft="@+id/ImageButton01"
+        android:layout_alignRight="@+id/ImageButton01"
+        android:background="#8F44AD"
+        android:gravity="center"
+        android:text="Themes"
+        android:textColor="#ffffff"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ImageButton02"
+        android:layout_alignRight="@+id/ImageButton02"
+        android:layout_below="@+id/ImageButton02"
+        android:background="#626D1F"
+        android:gravity="center"
+        android:text="Media"
+        android:textColor="#ffffff"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/TextView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ImageButton03"
+        android:layout_alignRight="@+id/ImageButton03"
+        android:layout_below="@+id/ImageButton03"
+        android:background="#105274"
+        android:gravity="center"
+        android:text="Settings"
+        android:textColor="#ffffff"
+        android:textSize="30px" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="900dp"
+        android:layout_height="40dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="22px"
+        android:background="#34495E"
+        android:text="Empowered By ESN Technologies"
+        android:textColor="#ffffff" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/moblogo" />
+
+    <ImageButton
+        android:id="@+id/ImageButton01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/TextView01"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:background="#9B59B6"
+        android:onClick="move"
+        android:paddingBottom="0px"
+        android:src="@drawable/theme"
+        android:text="Button" />
+
+    <ImageButton
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="14dp"
+        android:background="#E84C3D"
+        android:onClick="move"
+        android:paddingBottom="0px"
+        android:src="@drawable/homeapp"
+        android:text="Button" />
+
+    <ImageButton
+        android:id="@+id/ImageButton02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="6dp"
+        android:background="#839328"
+        android:onClick="move"
+        android:paddingBottom="0px"
+        android:src="@drawable/movie"
+        android:text="Button" />
+        
+        
+         <TextView
+        android:id="@+id/textView2"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="19dp"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="    Home Automation"
+        android:textSize="40px" />
+        
+        
+        
+         <TextView
+        android:id="@+id/textView3"
+        android:layout_width="00dp"
+        android:layout_height="0dp"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView2"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="                       Welcome to privileged life" />
+   
+</RelativeLayout><!-- From: file:/C:/Users/natraj.gadumala/AndroidStudioProjects/HAApplication/app/src/main/res/layout/homeviewcontroller.xml -->

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/22.1.1.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/22.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/22.1.1.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/22.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.36/3.1.36.iml" filepath="$PROJECT_DIR$/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/3.1.36/3.1.36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/build/generated/source/buildConfig/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/UrBoost/app/build/generated/source/buildConfig/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/src/androidTest/androidTest1.iml" filepath="$PROJECT_DIR$/MyApplication/app/src/androidTest/androidTest1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/src/androidTest/androidTest2.iml" filepath="$PROJECT_DIR$/UrBoost/app/src/androidTest/androidTest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/build/generated/source/buildConfig/androidTest/androidTest3.iml" filepath="$PROJECT_DIR$/MyApplication2/app/build/generated/source/buildConfig/androidTest/androidTest3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/generated/source/buildConfig/androidTest/androidTest4.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/generated/source/buildConfig/androidTest/androidTest4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/src/androidTest/androidTest5.iml" filepath="$PROJECT_DIR$/MyApplication2/app/src/androidTest/androidTest5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/MyApplication2/app/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/build/generated/source/buildConfig/buildConfig1.iml" filepath="$PROJECT_DIR$/UrBoost/app/build/generated/source/buildConfig/buildConfig1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/generated/source/buildConfig/buildConfig2.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/generated/source/buildConfig/buildConfig2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/build/intermediates/manifests/androidTest/debug/debug.iml" filepath="$PROJECT_DIR$/MyApplication2/app/build/intermediates/manifests/androidTest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/MyApplication2/app/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/intermediates/manifests/androidTest/debug/debug.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/intermediates/manifests/androidTest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/build/intermediates/manifests/androidTest/debug/debug.iml" filepath="$PROJECT_DIR$/UrBoost/app/build/intermediates/manifests/androidTest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/UrBoost/app/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/src/main/main.iml" filepath="$PROJECT_DIR$/MyApplication2/app/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/src/main/main1.iml" filepath="$PROJECT_DIR$/UrBoost/app/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/src/main/main2.iml" filepath="$PROJECT_DIR$/MyApplication/app/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication2/app/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/MyApplication2/app/build/generated/source/r/r.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UrBoost/app/build/generated/source/r/r1.iml" filepath="$PROJECT_DIR$/UrBoost/app/build/generated/source/r/r1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyApplication/app/build/generated/source/r/r2.iml" filepath="$PROJECT_DIR$/MyApplication/app/build/generated/source/r/r2.iml" />
+    </modules>
+  </component>
+</project>

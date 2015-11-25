@@ -1,0 +1,62 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#FFFFFF"    android:layout_height="match_parent" tools:context=".MainActivity">
+
+
+    <Button android:layout_marginLeft="30dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="SAMSUNG"
+        android:id="@+id/samsung"
+        />
+
+    <Button android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="NEXSUS"
+        android:id="@+id/nexsus"
+        />
+
+    <Button android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="MOTOROLA"
+        android:id="@+id/moto"
+        />
+
+    <Button android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="HTC"
+        android:id="@+id/htc"
+        />
+
+    <Button
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF"
+        android:background="#3F51B5"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="SONY"
+        android:id="@+id/sony"
+        />
+</LinearLayout>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#849229"
+    android:orientation="vertical" >
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_marginLeft="14dp"
+        android:layout_toRightOf="@+id/imageView1"
+        android:background="#ffffff"
+        android:src="@drawable/play" />
+
+    <ImageButton
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_marginLeft="15dp"
+        android:layout_toRightOf="@+id/imageButton1"
+        android:background="#ffffff"
+        android:src="@drawable/back" />
+
+    <ListView
+        android:id="@+id/listView"
+        android:listSelector="@drawable/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/imageButton1"
+        android:layout_alignParentLeft="true"
+        android:cacheColorHint="#00000000" >
+    </ListView>
+
+    <ImageButton
+        android:id="@+id/imageButton4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageButton3"
+        android:layout_marginLeft="16dp"
+        android:layout_toRightOf="@+id/imageButton3"
+        android:background="#ffffff"
+        android:onClick="ControlMethod"
+        android:src="@drawable/farword" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/imageButton4"
+        android:layout_marginRight="17dp"
+        android:background="#ffffff"
+        android:onClick="ControlMethod"
+        android:src="@drawable/nextfile" />
+
+    <ImageButton
+        android:id="@+id/imageButton3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageButton2"
+        android:layout_marginLeft="18dp"
+        android:layout_toRightOf="@+id/imageButton2"
+        android:background="#E74C3C"
+        android:onClick="ControlMethod"
+        android:src="@drawable/stop" />
+
+    <ImageButton
+        android:id="@+id/imageButton7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/imageButton2"
+        android:layout_alignTop="@+id/imageButton6"
+        android:layout_marginRight="13dp"
+        android:onClick="ControlMethod"
+        android:src="@drawable/volinc" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="122dp"
+        android:layout_marginLeft="14dp"
+        android:background="#ffffff"
+        android:onClick="ControlMethod"
+        android:src="@drawable/prevfile" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageButton1"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="12dp"
+        android:onClick="ControlMethod"
+        android:src="@drawable/voldec" />
+
+</RelativeLayout><!-- From: file:/C:/Users/natraj.gadumala/AndroidStudioProjects/HAApplication/app/src/main/res/layout/media.xml -->

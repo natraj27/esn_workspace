@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-a560761fc4f534e24ded11e82d0970335ff90227.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-b88b77f50d735047c7dc251050d7eac85a41c192.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.4\129874135e6081269ace2312092031558865de12\bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\bolts-android-1.1.4-d48f92873bec5d46a3439487b5008a7add4cdebc.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\library-2.4.0-93e479bcb0c170742a3877530fcceae76b91f905.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-d257fb0ed32870ad42d124ad93341ac72aeb0647.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\libs\PayPalAndroidSDK-2.9.5.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f0a3e3f3fda51ced78404438b0cde634407c826">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\PayPalAndroidSDK-2.9.5-73530048f8d81167fade0f8f9ff17f23ad47c72d.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-ce2bd8a4d3691e8197d3764a65690ac3ca1652ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\se.emilsjolander\stickylistheaders\2.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5682a0f7a23864f71e826f9a0fe567c2a2628cb1">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-39f5a05c997ff2f0b2b756b492d9547d4424cf04.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-910eac8e3f05b6bc2d3e511c09dbe891bc9027a6.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-manipulation\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5660e4bf78904137e90e62a5d4cc2e987258f02c">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-b328f3679441ec6c6c47364f0c3f31bc4a9c294d.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-dbdb06d7b258455febd219bbb716ebefdf3707f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core-slh\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="49223278ec2ede1d05d00868c5ce3e077b4016f8">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-105cff3afd19c4891b8cb5911264362f54fae555.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.11\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0f700f6802ba1a1f1fa7ac26d5db0666a89d75a6">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-3fac9a3ac3db4503862cf2876853e79d6af2a7f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\exploded-aar\com.nhaarman.listviewanimations\lib-core\3.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="C:\Users\natraj.gadumala\AndroidStudioProjects\SlidingMenu\app\build\intermediates\pre-dexed\debug\classes-7a5b5e98ebd099fddd8a4b2028280a4bb808c730.jar" />
+    </item>
+
+</items>
